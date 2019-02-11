@@ -1,0 +1,46 @@
+MISC:
+cd /c för C:
+ls -a for hidden files.
+help i cmd, man inte inkluderat i gitbash
+fc cmd file compare
+diff -u för bättre format i cmd
+git log --stat
+git diff --stat 
+
+https://gist.github.com/evantoli/f8c23a37eb3558ab8765
+git config --global http.https://github.com.proxy http://gia.sebank.com:8080
+git config --global http.https://github.com.sslVerify false
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Row numbers.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    When together with what may lead to why. Easy to revert.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Less noise vs risk of rework. Autosaving shelve sets could be a middle way?
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Dependencies and, to some extent, concurrency.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    List commits and compare them. Use the flag --stat to include counts etc.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Ability to revert allows retroactive bugfixing, not just initial testing.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Accessing and modifying documentation. Version control of Java and .NET code.
