@@ -14,6 +14,7 @@ organized? How would branches help?
 Experimental fixes, hotfixes to releases, separate editions.
 
 How do the diagrams help you visualize the branch structure?
+Reachability becomes clear. Shows both commit and branch ids.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
