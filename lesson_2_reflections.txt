@@ -22,3 +22,4 @@ Changes in the respective commits are combined using an algorithm. The branches 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pro Git: Automation of repetitive tasks, but with caution. Pro Manually: Better understanding of why.
