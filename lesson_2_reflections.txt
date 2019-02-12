@@ -18,6 +18,7 @@ Reachability becomes clear. Shows both commit and branch ids.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Changes in the respective commits are combined using an algorithm. The branches have joined - actually the branch in the argument has been folded into to the checkedout branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
